@@ -23,6 +23,10 @@ namespace ApiSwaggerCore3._0.Controllers
             _logger = logger;
         }
 
+        /// <summary>
+        /// Get the value for any country example
+        /// </summary>
+        /// <returns></returns>
         [HttpGet]
         public IEnumerable<WeatherForecast> Get()
         {

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ApiSwaggerCore3.0</name>
+    </assembly>
+    <members>
+        <member name="M:ApiSwaggerCore3._0.Controllers.WeatherForecastController.Get">
+            <summary>
+            Get the value for any country example
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
